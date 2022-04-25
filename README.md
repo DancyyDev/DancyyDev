@@ -10,6 +10,13 @@ I love to build things. I grew up playing with legos, creating fun and unique bu
 
 **Here is a link to my Portfolio:** https://dancyydev.netlify.app/
 
+**Follow and connect with me at these places**
+
+https://twitter.com/DchaDev91
+
+https://www.linkedin.com/in/dcha91/
+
+
 <!---
 DancyyDev/DancyyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
